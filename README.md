@@ -31,7 +31,7 @@ currently: scaling AI + automation services and launching SaaS products
 open_to: technical partnerships · client projects · co-founding opportunities
 ```
 
-I build **production systems** that solve real business problems — from AI-powered document processors to intelligent call centers. I care less about perfect code and more about **shipping things that work and generate revenue**.
+I build **production systems** that solve real business problems — from AI-powered document processors to intelligent call centers. I believe in **pragmatic engineering**: solid architecture, fast iteration, and code that earns its keep in production. 
 
 ---
 
