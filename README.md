@@ -111,9 +111,6 @@ I build **production systems** that solve real business problems — from AI-pow
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OscarRamirezdeArellano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarRamirezdeArellano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarRamirezdeArellano&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OscarRamirezdeArellano&theme=tokyo-night&hide_border=true&area=true" />
